@@ -1,0 +1,4 @@
+customer_id,product,sales_amount,sales_date
+1,Product_A,120,2023-01-01
+2,Product_B,150,2023-01-02
+3,Product_C,130,2023-01-03
