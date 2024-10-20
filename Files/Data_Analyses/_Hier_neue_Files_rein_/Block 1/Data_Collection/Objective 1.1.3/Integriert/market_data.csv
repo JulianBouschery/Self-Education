@@ -1,0 +1,5 @@
+product,market_price,market_trend
+Product_A,125.0,up
+Product_B,155.0,down
+Product_C,135.0,up
+Product_D,175.0,stable
